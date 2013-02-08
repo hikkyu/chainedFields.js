@@ -1,5 +1,8 @@
 # Chained Field
+Concatenate fields, can be useful in a form for credit card
 
+## Demo
+[http://hikkyu.github.com/chainedFields.js/](http://hikkyu.github.com/chainedFields.js/)
 
 ## How to use
 Declare some inputs in a container and add `max-length` attribute to all :
