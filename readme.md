@@ -21,5 +21,5 @@ Jquery function:
 
 ## Tested on
 - IE7+
-- Firefox 3.6
--
+- Firefox 3.6+
+- Chrome 14+
